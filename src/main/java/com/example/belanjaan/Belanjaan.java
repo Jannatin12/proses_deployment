@@ -34,7 +34,7 @@ public class Belanjaan {
             discounts.put(nama, diskon);
             hasDiscount = true;
         } else {
-            System.out.println("Item tidak ditemukan untuk diskon.");
+            System.out.println("Item tidak ditemukan untuk diskon :<");
         }
     }
 
