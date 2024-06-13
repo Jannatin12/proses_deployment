@@ -47,7 +47,7 @@ public class Belanjaan {
                 discounts.remove(nama);
             }
         } else {
-            System.out.println("Item tidak ditemukan di keranjang.");
+            System.out.println("Maaf item tidak ditemukan");
         }
     }
 
