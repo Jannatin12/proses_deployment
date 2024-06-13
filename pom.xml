@@ -2,7 +2,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
-  <artifactId>contohproject</artifactId>
+  <artifactId>proses_deployment</artifactId>
   <version>0.3.5</version>
 
   <dependencies>
@@ -13,13 +13,13 @@
     </dependency>
   </dependencies>
 
-  <!-- <distributionManagement>
+  <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/Jannatin12/proses_deployment</url>
     </repository>
-  </distributionManagement> -->
+  </distributionManagement>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
