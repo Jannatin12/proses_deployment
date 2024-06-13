@@ -9,6 +9,7 @@ public class DriverBelanjaan {
         belanjaan.tambahItem("Sabun", 5000, "Kebutuhan Rumah Tangga");
         belanjaan.tambahItem("Buku", 15000, "Alat Tulis");
         belanjaan.tambahItem("Pensil", 5000, "Alat Tulis");
+        belanjaan.tambahItem("Penghapus", 6000, "Alat Tulis");
 
         belanjaan.tampilkanItem();
         System.out.println("");
